@@ -1,0 +1,5 @@
+{
+  "name": "InstaCustom Profile",
+  "description": "A high-fidelity Instagram profile clone with full customization: update profile pictures, add gallery posts, create stories with external links, and edit all profile statistics manually.",
+  "requestFramePermissions": []
+}
